@@ -1,0 +1,6 @@
+@TechConnect.Analytics.API_HostAddress = http://localhost:5002
+
+GET {{TechConnect.Analytics.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
